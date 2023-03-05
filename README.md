@@ -1,0 +1,6 @@
+# M3C-2023-Code
+
+Q1_Graphs.m, Q2_Graphs.m, and Q3_Graphs.m work upon the same original dataset and fit_logistic function found in fit_logistic.m
+The MATLAB files were used to make Figures 1.1, 1.2, 1.3, 2.3, and 3.1.
+
+The Python files are used to make charts in matplotlib, which included Figures 2.1 and 2.2.
